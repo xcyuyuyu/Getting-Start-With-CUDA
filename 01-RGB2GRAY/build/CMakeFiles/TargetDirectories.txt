@@ -1,0 +1,3 @@
+/media/canyu/Data2/MyProject/Cuda/Getting-Start-With-CUDA/01-RGB2GRAY/build/CMakeFiles/rebuild_cache.dir
+/media/canyu/Data2/MyProject/Cuda/Getting-Start-With-CUDA/01-RGB2GRAY/build/CMakeFiles/edit_cache.dir
+/media/canyu/Data2/MyProject/Cuda/Getting-Start-With-CUDA/01-RGB2GRAY/build/CMakeFiles/RGB2GRAY.dir
